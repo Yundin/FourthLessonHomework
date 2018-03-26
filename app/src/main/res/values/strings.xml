@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerExample</string>
+    <string name="sum">Сумма: %d</string>
+    <string name="add">Добавить элемент</string>
+</resources>
