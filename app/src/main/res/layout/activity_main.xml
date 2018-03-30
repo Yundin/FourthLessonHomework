@@ -2,8 +2,7 @@
 <android.support.v4.widget.NestedScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:scrollX="0dp">
+    android:layout_height="match_parent">
     <!--NestedScrollView, как и ScrollView, дает нам возможность
     прокручивать содержимое layout'а, но в отличие от обычного
     ScrollView ладит с ресайклером внутри нее -->
